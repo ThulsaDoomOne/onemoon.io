@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Whitepaper](whitepaper.md)
 
 ## The Company
 
+* [Whitepaper](the-company/whitepaper.md)
 * [Vision and Values](the-company/vision-and-values.md)
 * [Meet the Team!](the-company/meet-the-team.md)
 
