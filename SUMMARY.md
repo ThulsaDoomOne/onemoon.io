@@ -2,11 +2,11 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## Whitepaper
 
-* [Whitepaper](the-company/whitepaper.md)
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Introduction](whitepaper/introduction.md)
+* [Tokenomics](whitepaper/tokenomics.md)
+* [Meet the Team!](whitepaper/meet-the-team.md)
 
 ## The Formal Stuff
 
