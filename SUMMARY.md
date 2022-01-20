@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Whitepaper](whitepaper.md)
 
 ## The Company
 
