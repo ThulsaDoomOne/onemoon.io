@@ -1,6 +1,6 @@
 # Whitepaper
 
-### Introduction
+## Introduction
 
 ONEMOON is the first deflationary, passive yield generation token on the Harmony ONE network. At inception, the core premise of ONEMOON was create a frictionless static yield generation asset that offers stakeholders a new type of passive rewards which does not require the asset to be staked, or used to provide liquidity. To partake in DeFi yields all you have to do is hold ONEMOON.
 
@@ -8,17 +8,34 @@ There is an abundance of new users entering blockchain and DeFi. The popular yie
 
 ONEMOON is an experimental DeFi asset which uses an novel mix of deflation and passive rewards in an attempt to ease this adoption curve. Alongside with this primary goal, ONEMOON incorporates many other battle-tested traits of popular defi assets, not the least of which is the programmatic creation of Locked Liquidity. This, along with an aggressive and consistent supply burn, creates the effect of a "rising price floor" as the volume of ONE/ONEMOON locked liquidity increases.
 
-
-
 By simply holding ONEMOON, users are able to gain exposure to the high growth DeFi sector without all the bottlenecks that are typically encountered with various other permissionless DeFi offerings.
 
-### Tokenomics
+## Tokenomics
 
 ONEMOON incorporates the following fee and burn schedule:
 
-* \- 5% of TX fees go to existing holders of ONEMOON as rewards.
-* \- 2.5% of TX fees are used to create permanently locked liquidity between ONEMOON-ONE
-* \- 1.25% is used to burn ONEMOON.
-* \- 1.25% is used to burn hMOCHI.
+* 5% of TX fees go to existing holders of ONEMOON as rewards.
+* 2.5% of TX fees are used to create permanently locked liquidity between ONEMOON-ONE
+* 1.25% is used to burn ONEMOON.
+* 1.25% is used to burn hMOCHI.
 
 ONEMOON employs a mechanism called "reflection" that distributes rewards to stakeholders in realtime, and with zero fees. This is achieved by effectively "rebasing" on every transaction and computing balances in realtime while viewing or entering into state-changing functions. This unique funtionality allows ONEMOON to have frictionless utitlity and generate passive yields for its stakeholders.
+
+![This diagram provides an example of the "separation axiom" that is employed during each transaction from Onemoon.](../.gitbook/assets/Onemoon-Tokenomics-Diagram.png)
+
+Every time a Onemoon transaction occurs, the protocol checks to see if the latest TX should cause a distribution event. If the fee repository is at or above the accrual threshold, a distribution event occurs, producing a positive yield for stakeholders as well as funding the burn wallet which is then liquidated as described above.
+
+## Burning Mechanisms
+
+ONEMOON incorporates a powerful DUAL burn system which also connects it to its parent ecosystem Mochiswap and the governance token therein $hMOCHI. This is a unique multicoin system that benefits the greater ecosystem which in turn benefits ONEMOON both economically and fundamentally as it is part of a larger system. When the configured threshold is reached, the burn process is initiated and will result in the following effects.
+
+* 1.25% of tx fee value of ONEMOON is burned, lowering the max supply and increasing scarcity.
+* 1.25% of tx fee value of hMOCHI is burned, lowering the max supply and increasing scarcity of the governance token in the supporting ecosystem of ONEMOON. This results in a very unique type of positive feedback loop that supports the economics of both tokens.
+
+## Automatic Locked Liquidity
+
+![](../.gitbook/assets/Onemoon-Automatic-Locked-Liquidity.png)
+
+The ability to collect and retain liquidity is one of the biggest challenges for any DeFi asset or platform. In a vast majority of DeFi systems, users must provide liquidity by creating or adding to token pairs in liquidity pools. A commonly misunderstood trait of these systems is something called "impermanent loss" which can be explained as a temporary decrease in balance of one-side of the provided LP pair for the liquidity provider in an attempt to maintain a constant product (as described in the "constant product model" x \* y = k). For the average or new user this entire process can seem murky and lead to a perceived loss of value, and as such, may deter some users from interacting with the protocol.
+
+ONEMOON solves this problem by avoiding farming all together, as well as automatically locking a percentage of transaction fees into "locked liquidity" of ONE/ONEMOON LP. This leads to a far safer and trustable econmic base as stakeholders can count on available liquidity being present as the liquidity can indeed not be removed, but must be accessed only through swaps.
