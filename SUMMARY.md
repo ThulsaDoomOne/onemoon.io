@@ -6,7 +6,8 @@
 
 * [Introduction](whitepaper/introduction.md)
 * [Tokenomics](whitepaper/tokenomics.md)
-* [Meet the Team!](whitepaper/meet-the-team.md)
+* [Burning Mechanisms](whitepaper/burning-mechanisms.md)
+* [Automatic Locked Liquidity](whitepaper/automatic-locked-liquidity.md)
 
 ## The Formal Stuff
 
