@@ -10,7 +10,6 @@
 * [Automatic Locked Liquidity](whitepaper/automatic-locked-liquidity.md)
 * [Conclusion](whitepaper/conclusion.md)
 
-## The Formal Stuff
+## Blue Paper
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Bluepaper  - to be edited](blue-paper/bluepaper-to-be-edited.md)
