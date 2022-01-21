@@ -8,6 +8,7 @@
 * [Tokenomics](whitepaper/tokenomics.md)
 * [Burning Mechanisms](whitepaper/burning-mechanisms.md)
 * [Automatic Locked Liquidity](whitepaper/automatic-locked-liquidity.md)
+* [Conclusion](whitepaper/conclusion.md)
 
 ## The Formal Stuff
 
