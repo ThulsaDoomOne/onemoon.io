@@ -4,3 +4,11 @@
 Mars Colony Land #18492
 {% endembed %}
 
+
+
+```markdown
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+```
