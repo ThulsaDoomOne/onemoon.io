@@ -13,3 +13,7 @@
 ## Blue Paper
 
 * [Bluepaper  - to be edited](blue-paper/bluepaper-to-be-edited.md)
+
+## Mars Colony
+
+* [Our Lands](mars-colony/our-lands.md)
