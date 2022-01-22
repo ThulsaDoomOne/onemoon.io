@@ -16,4 +16,4 @@
 
 ## Mars Colony
 
-* [Our Lands](mars-colony/our-lands.md)
+* [Mars land owned by Onemoon DAO](mars-colony/mars-land-owned-by-onemoon-dao.md)
