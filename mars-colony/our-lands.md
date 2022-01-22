@@ -1,5 +1,7 @@
 # Our Lands
 
+![](../.gitbook/assets/18492.png)
+
 {% embed url="https://nftkey.app/collections/marscolony/token-details?tokenId=18492" %}
 Mars Colony Land #18492
 {% endembed %}
