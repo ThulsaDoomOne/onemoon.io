@@ -17,3 +17,4 @@
 ## Mars Colony
 
 * [Mars land owned by Onemoon DAO](mars-colony/mars-land-owned-by-onemoon-dao.md)
+* [Mars Colony Upgrade Analysis](mars-colony/mars-colony-upgrade-analysis.md)
