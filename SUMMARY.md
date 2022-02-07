@@ -18,4 +18,4 @@
 
 * [Overview](mars-colony/overview.md)
 * [Mars Colony Upgrade Analysis](mars-colony/mars-colony-upgrade-analysis.md)
-* [Mars land owned by Onemoon DAO](mars-colony/mars-land-owned-by-onemoon-dao.md)
+* [Mars land owned by ONEMOON DAO](mars-colony/mars-land-owned-by-onemoon-dao.md)
