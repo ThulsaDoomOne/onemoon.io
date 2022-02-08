@@ -19,4 +19,4 @@ ONEMOON employs a mechanism called a "reflection" that distributes rewards to st
 
 Every time a ONEMOON transaction occurs, the protocol checks to see if the latest TX should cause a distribution event. If the fee repository is at or above the accrual threshold, a distribution event occurs, producing a positive yield for stakeholders as well as funding the burn wallet which is then liquidated as described above.
 
-In short, to earn rewards, you simply need to hold ONEMOON in a wallet such as Meta Mask.
+In short, to automatically earn rewards, you simply need to hold ONEMOON in a wallet such as Meta Mask.
