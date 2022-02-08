@@ -36,13 +36,5 @@ MochiSwap is the first cross-chain DEX on the Harmony ONE network, using the nat
 
 ONEMOON The developers of MochiSwap recently implemented a 3-party multisig wallet (using Gnosis Safe) to control the MochiSwap community treasure. This is a step which has been taken in order to help decentralize the MochiSwap ecosystem, and one that will help MochiSwap function properly as a DAO .. "There was never any migrator code in the DEX and the LPs cannot be tampered with by anyone. This will be provable using explorer-based contract verification in the near future." (source: https://mochiswap.medium.com/introducing-multi-sig-on-mochiswap-bd5a7af5c278)
 
-## WHAT IS A DEFLATIONARY TOKEN?
-
-ONEMOON is deflationary, meaning the max supply was minted at launch. As ONEMOON transactions occur, a 10% transaction fee instantly distributes tokens to all ONEMOON holders, while adding tokens to the locked liquidity, and also burning a portion of ONEMOON tokens. These features collectively drive down the circulating token supply, making ONEMOON deflationary in nature. In short, the more that ONEMOON is used, the more scare it will become.
-
-## HOW DOES THE TOKEN FUNCTION?
-
-ONEMOON is an HRC20 token built on the Harmony Network. At the time of writing, ONEMOON holders can store their ONEMOON tokens in Metamask, as well as buy and sell ONEMOON using the MochiSwap DEX on the Harmony Network. When ONEMOON holders buy, sell, send, or receive ONEMOON tokens a 10% transaction fee will be subtracted from the transaction total. For example: when User-A sends 1,000,000 ONEMOON tokens to User-B, a 10% fee will be provided by User-/\s transaction and used to power the ONEMOON tokenomics (for more on Tokenomics see: 'What are ONEMOON's Tokenomics?'). After the transaction fee, User B will then receive 900,000 ONEMOON tokens This transaction fee will be applied any time ONEMOON holders buy, sell, or send their ONEMOON tokens.
-
 
 
