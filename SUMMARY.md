@@ -16,10 +16,6 @@
 * [How does the token function?](faqs/how-does-the-token-function.md)
 * [What is a deflationary token?](faqs/what-is-a-deflationary-token.md)
 
-## Blue Paper
-
-* [Bluepaper  - to be edited](blue-paper/bluepaper-to-be-edited.md)
-
 ## Mars Colony
 
 * [Overview](mars-colony/overview.md)
