@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/mars-colony-header-overview.jpg
+cover: ../.gitbook/assets/mars-colony-banner.jpg
 coverY: 0
 ---
 
