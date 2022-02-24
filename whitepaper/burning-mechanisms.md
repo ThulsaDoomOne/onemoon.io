@@ -1,9 +1,12 @@
 # Burning Mechanisms
 
-Basic description:  Every so often, we burn ONEMOON.  What that means is that we send X amount of ONEMOON to a dead wallet.  That means we permanently decrease the supply of ONEMOON.  When the supply is decreased, the token value rises because they are permanently removed from the supply.\
-\
-Here is the burn address: 0x0000000000000000000000000000000000000001\
+When tokens are burned through transaction fees, They are automatically sent to a burn wallet that no one can ever access because it was created without private keys, making the tokens forever inaccessible and permanently removed from supply
 
+2% of every OneMoon transaction (buys, sells and transfers) are burned, thus reducing the supply of OneMoon tokens and increasing their value.
+
+For transparency, anyone can research the amount of tokens that have been burned to date by opening the following URL: \
+\
+[https://explorer.harmony.one/address/0x0000000000000000000000000000000000000001](https://explorer.harmony.one/address/0x0000000000000000000000000000000000000001)
 
 \
 
