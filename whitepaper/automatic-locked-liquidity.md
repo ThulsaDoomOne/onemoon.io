@@ -6,4 +6,4 @@ The ability to collect and retain liquidity is one of the biggest challenges for
 
 In conclusion, DeFi projects using liquidity pools require multiple steps by the holders and are often confusing for newcomers and tend to lead to erroneous decisions.
 
-ONEMOON solves this problem by avoiding farming all together, as well as automatically locking a percentage of transaction fees into "locked liquidity" of ONE/ONEMOON LP. This leads to a far safer and trustable econmic base as stakeholders can count on available liquidity being present as the liquidity can indeed not be removed, but must be accessed only through swaps.
+ONEMOON solves this problem by avoiding farming all together, as well as automatically locking a percentage of transaction fees into "locked liquidity" of ONE/ONEMOON LP. This leads to a far safer and trustable economic base as stakeholders can count on available liquidity being present as the liquidity can indeed not be removed, but must be accessed only through swaps.
