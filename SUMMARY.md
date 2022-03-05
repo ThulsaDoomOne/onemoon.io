@@ -12,7 +12,6 @@
 
 ## FAQ's
 
-* [How do I buy ONEMOON?](faqs/how-do-i-buy-onemoon.md)
 * [How does the token function?](faqs/how-does-the-token-function.md)
 * [What is a deflationary token?](faqs/what-is-a-deflationary-token.md)
 
