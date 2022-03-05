@@ -1,0 +1,74 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Passion+One&display=swap'); 
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Passion One', cursive;
+*/
+
+BODY {
+    background-color:#0D0F25;
+    font-family: 'Open Sans', sans-serif;
+    font-size:1.2em;
+}
+
+H1, H2, H3, H4, H5, H6 {
+   font-family: 'Passion One', cursive; 
+}
+
+.btn-primary {
+    font-family: 'Passion One', cursive;
+    text-shadow: 2px 2px rgba(0,0,0,0.75) ;
+    text-transform: uppercase;
+    font-size:1.5em;
+    background-color:#367CC0;
+    border:none;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #FDD700;
+    border-color: none; /*set the color you want here*/
+}     
+
+.main-card {
+    background-image: url("assets/img/harmony_rocket.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+.icon-main-card {
+    height:75px;
+}
+
+/* Footer */
+
+.footer {
+
+    background-color:#0D0F25;
+
+}
+
+.copyright {
+    font-size:0.9em;
+
+}
+
+a img.hover {
+    display: none;
+    height:50px;
+}
+a img.default {
+    display: inherit;
+    height:50px;
+}
+a:hover img.hover {
+    display: inherit;
+    height:50px;
+}
+a:hover img.default {
+    display: none;
+    height:50px;
+}
