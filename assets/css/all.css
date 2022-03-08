@@ -26,6 +26,7 @@ BODY {
 
 H1, H2, H3, H4, H5, H6 {
    font-family: 'Passion One', cursive; 
+    letter-spacing: 1.25px;
 }
 
 .btn-primary {
