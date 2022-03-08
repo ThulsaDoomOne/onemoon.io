@@ -1,5 +1,6 @@
 ---
 coverY: 0
+cover: .gitbook/assets/onemoon-intro-banner.jpg
 ---
 
 # Welcome to ONEMOON
