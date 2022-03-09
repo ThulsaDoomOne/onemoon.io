@@ -15,6 +15,11 @@
 * [How does the token function?](faqs/how-does-the-token-function.md)
 * [What is a deflationary token?](faqs/what-is-a-deflationary-token.md)
 
+## Community Proposals
+
+* [Snapshot.org](community-proposals/snapshot.org.md)
+* [gov.harmony.one](community-proposals/gov.harmony.one.md)
+
 ## Mars Colony
 
 * [Overview](mars-colony/overview.md)
