@@ -10,6 +10,11 @@
 * [Automatic Locked Liquidity](whitepaper/automatic-locked-liquidity.md)
 * [Conclusion](whitepaper/conclusion.md)
 
+## Community Proposals
+
+* [Snapshot.org](community-proposals/snapshot.org.md)
+* [gov.harmony.one](community-proposals/gov.harmony.one.md)
+
 ## FAQ's
 
 * [How does the token function?](faqs/how-does-the-token-function.md)

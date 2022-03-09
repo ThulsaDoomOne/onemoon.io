@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/mars-colony-upgrade-analysis.jpg
+coverY: 0
+---
+
 # Mars Colony Upgrade Analysis
 
 ### Summary
