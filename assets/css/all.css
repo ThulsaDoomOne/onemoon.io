@@ -13,6 +13,19 @@ BODY {
     font-size:1.2em;
 }
 
+
+a.standout:hover {
+  color: #0D0F25 !important;
+  border-bottom: 3px solid #FFC700 !important;
+  text-decoration:none !important;
+}
+
+a.standout:active, a.standout:link, a.standout:visited {
+  color: #0D0F25;
+  border-bottom:none;
+  text-decoration:none;
+}
+
 .space-background {
     background-image:url("../../assets/img/background-moon.png");
     background-size: contain;
@@ -22,6 +35,15 @@ BODY {
 
 .highlight {
     color:#FFC700;
+}
+
+#contractCopy {
+    overflow:auto;
+    resize:none;
+    width:475px;
+    height:50px;
+    line-height: 25px;
+    text-align: center;
 }
 
 H1, H2 {
