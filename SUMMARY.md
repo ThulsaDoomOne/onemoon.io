@@ -29,3 +29,7 @@
 ## Off Topic
 
 * [Unchain\_Ukraine Donation](off-topic/unchain\_ukraine-donation.md)
+
+## ONEMOON DAO Council
+
+* [Meet the team](onemoon-dao-council/meet-the-team.md)
