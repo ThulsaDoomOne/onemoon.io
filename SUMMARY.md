@@ -10,6 +10,10 @@
 * [Automatic Locked Liquidity](whitepaper/automatic-locked-liquidity.md)
 * [Conclusion](whitepaper/conclusion.md)
 
+## ONEMOON DAO Council
+
+* [Meet the team](onemoon-dao-council/meet-the-team.md)
+
 ## Community Proposals
 
 * [Snapshot.org](community-proposals/snapshot.org.md)
